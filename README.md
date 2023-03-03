@@ -8,4 +8,4 @@ Most of the components are commented to reduce the bundle size.
 So you need to uncomment the components you are going to use in your project.
 
 ## src/main.ts
-This is the entry point. It includes an example of dynamic loading a couple of icons.
+This is the entry point. It includes an example of dynamic loading a couple of icons and showing an alert.
